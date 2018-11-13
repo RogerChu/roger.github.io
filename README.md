@@ -2,6 +2,4 @@
 
 A simple web application we used in life. [go to toDoList](https://rogerchu.github.io/roger.github.io/)
 
-  The Layout
-
-![Alt Text](url)
+![Application](/toDoList.png)
